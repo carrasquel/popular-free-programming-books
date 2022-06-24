@@ -1,4 +1,4 @@
-# Popular Programming Free Resources
+# Popular Free Programming Resources
 
 ## popular-free-programming-books
 📚 Popular and Freely available programming books
