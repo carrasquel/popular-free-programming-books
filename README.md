@@ -3,7 +3,7 @@
 ## popular-free-programming-books
 📚 Popular and Freely available programming books
 
-This list is based on the popular github repository [free-programming-books](https://github.com/EbookFoundation/free-programming-books), but with elements selected and curated by my personal choice and combined with the most popular and demanding technologies to 2022 according to the [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/).
+This list is based on the popular github repository [free-programming-books](https://github.com/EbookFoundation/free-programming-books), but with elements selected and curated by my personal choice and combined with the most popular and demanding technologies to 2022 according to the [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/). Making this list suitable for self-taught web developers, covering the basics of programming, databases, front-end and back-end development.
 
 - [Popular Programming Free Resources](#popular-programming-free-resources)
   * [popular-free-programming-books](#popular-free-programming-books)
