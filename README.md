@@ -31,7 +31,7 @@ This list is based on the popular github repository [free-programming-books](htt
     + [Bash](#bash)
     + [Git](#git-1)
     + [Docker](#docker)
-    + [IDE / Editors](#ide---editors)
+    + [IDE / Editors](#ide--editors)
 
 ### Python
 
