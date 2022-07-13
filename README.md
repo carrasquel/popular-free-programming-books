@@ -31,7 +31,7 @@ This list is based on the popular github repository [free-programming-books](htt
     + [Bash](#bash)
     + [Git](#git-1)
     + [Docker](#docker)
-    + [<a id="ide--editores"></a>IDE / Editors](#-a-id--ide--editores----a-ide---editors)
+    + [IDE / Editors](#ide---editors)
 
 ### Python
 
@@ -467,7 +467,7 @@ Once you are confident with these technologies you can rely on cheat sheets to r
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
 
-### <a id="ide--editores"></a>IDE / Editors
+### IDE / Editors
 
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
